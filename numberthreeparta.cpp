@@ -11,7 +11,7 @@ int sum_from_to(int first, int last);
     cout << "Enter the last number: ";
     cin >> last;
 
-    // Calculate and display the sum
+    
     cout << "The sum from " << first << " to " << last << " is " << sum_from_to(first, last) << endl;
 
     return 0;
